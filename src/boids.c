@@ -1,3 +1,6 @@
+/*
+* Boids simulation created written in C with Raylib as a graphics engine.
+*/
 #include "raylib.h"
 #include <raymath.h>
 #include <stdint.h>
